@@ -1,0 +1,19 @@
+{
+  "gpu": [0],
+  "model": "model_result_log/ .pth",
+  "backbone": "res10",
+  "dropout": 0.5,
+  "sparserate": 0.001,
+  "balance": 0.5,
+  "n": 5,
+  "k": 5,
+  "q": 5,
+  "inner_val_steps": 400,
+  "hebb_lr": 0.01,
+  "meta_batch_size": 1,
+  "eval_batches": 800,
+  "seed": 0,
+  "num_workers": 8,
+  "feature_index": [-1, -2]
+}
+
