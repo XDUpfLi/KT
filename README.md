@@ -1,5 +1,5 @@
 # KT
-Knowledge Transduction for Cross-Domain Few-Shot Learning (under reviewer)
+Knowledge Transduction for Cross-Domain Few-Shot Learning (under review)
 
 # Prepare data
 Follow the instructions in [this repo](https://github.com/ml-jku/chef) 
